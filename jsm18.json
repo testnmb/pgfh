@@ -15,21 +15,21 @@
             "key": "py模板",
             "name": "🔞py模板(翻)",
             "type": 3,
-            "api": "./py/ru.py",
+            "api": "./py/模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "模板",
-            "name": "🔞模板(翻)",
+            "key": "json模板",
+            "name": "🔞模板",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": "./json/模板.json"
         },
         {
@@ -202,6 +202,160 @@
             "filterable": 1
         },
         {
+            "key": "集多花都",
+            "name": "🔞集多花都",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "./py/集多花都.py"
+        },
+        {
+            "key": "醉奶吧",
+            "name": "🔞醉奶吧",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/醉奶吧.json"
+        },
+        {
+            "key": "自由鸟",
+            "name": "🔞自由鸟",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/自由鸟.json"
+        },
+        {
+            "key": "桃花",
+            "name": "🔞桃花",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/桃花.json"
+        },
+        {
+            "key": "金陵撸铁汉",
+            "name": "🔞金陵撸铁汉",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/金陵撸铁汉.json"
+        },
+        {
+            "key": "七色谷",
+            "name": "🔞七色谷",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/七色谷.json"
+        },
+        {
+            "key": "dragon",
+            "name": "🔞dragon",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/dragon.json"
+        },
+        {
+            "key": "91速播",
+            "name": "🔞91速播",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/91速播.json"
+        },
+        {
+            "key": "魔法少女",
+            "name": "🔞魔法少女",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/魔法少女.json"
+        },
+        {
+            "key": "PandaAV",
+            "name": "🔞PandaAV",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/PandaAV.json"
+        },
+        {
+            "key": "奶妃Online",
+            "name": "🔞奶妃Online",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/奶妃Online.json"
+        },
+        {
+            "key": "花都影院",
+            "name": "🔞花都影院",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/花都影院.json"
+        },
+        {
+            "key": "咪咪女孩",
+            "name": "🔞咪咪女孩",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/咪咪女孩.json"
+        },
+        {
             "key": "py_BadNews",
             "name": "🔞BadNews(T4)",
             "type": 4,
@@ -323,18 +477,6 @@
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
             "ext": "./json/色岛2.json"
-        },
-        {
-            "key": "咪咪女孩",
-            "name": "🔞咪咪女孩",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": "./json/咪咪女孩.json"
         },
         {
             "key": "一茎深",
@@ -624,14 +766,6 @@
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
             "ext": "./json/女优走光.json"
-        },
-        {
-            "key": "金陵撸铁汉",
-            "name": "🔞金陵撸铁汉",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": "./json/金陵撸铁汉.json"
         },
         {
             "key": "油条视频",
@@ -1393,8 +1527,8 @@
             }
         },
         {
-            "key": "魔法少女",
-            "name": "🔞魔法少女",
+            "key": "魔法少女1",
+            "name": "🔞魔法少女1",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -1427,18 +1561,6 @@
             "filterable": 1
         },
         {
-            "key": "91速播",
-            "name": "🔞91速播",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": "./json/91速播.json"
-        },
-        {
             "key": "BtSow",
             "name": "🔞BtSow磁力",
             "type": 3,
@@ -1457,6 +1579,66 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60
+        },
+        {
+            "key": "91黑料",
+            "name": "🔞91黑料(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/91黑料.json"
+        },
+        {
+            "key": "18j",
+            "name": "🔞18j(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/18j.json"
+        },
+        {
+            "key": "hohoj",
+            "name": "🔞hohoj(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/hohoj.json"
+        },
+        {
+            "key": "黑哥蜜桃",
+            "name": "🔞黑哥蜜桃(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/黑哥蜜桃.json"
+        },
+        {
+            "key": "黑哥天美",
+            "name": "🔞黑哥天美(翻)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": "./json/黑哥天美.json"
         },
         {
             "key": "JAV目錄大全",
@@ -1850,32 +2032,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.6
-            }
-        },
-        {
-            "key": "魔法少女(翻)",
-            "name": "🔞魔法少女(翻)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "作者": "魔法少女",
-                "站名": "",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "国产AV$37#探花AV$43#黑料吃瓜$24#网黄UP主$40#绿帽淫妻$49#国产传媒$44#福利姬$41#字幕$39#水果π$45#主播直播$42#欧美$38#FC2$66#性爱教学$46#三级$48#动漫$47",
-                "数组": "thumbnail\"&&<li",
-                "标题": "多吃枸杞啊",
-                "副标题": "🍵",
-                "图片": "data-original=\"&&\"",
-                "链接": "?v=&&\\&",
-                "嗅探词": ".m3u8",
-                "直接播放": 1,
-                "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },
         {
@@ -3470,54 +3626,59 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
         },
         {
+            "name": "韩国女团直播",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/hanguonvtuan.m3u"
+        },
+        {
             "name": "综合",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/123.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/123.txt"
         },
         {
             "name": "大型综合",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/dxzh.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/dxzh.txt"
         },
         {
             "name": "全直播",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/qzb.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/qzb.txt"
         },
         {
             "name": "咪咕2597",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/mg2597.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/mg2597.txt"
         },
         {
             "name": "港澳台",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/gat.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gat.txt"
         },
         {
             "name": "三级",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/nwbgercd/y/refs/heads/main/zb/sj.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/sj.txt"
         },
         {
             "name": "4gtv",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/4gtv.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/4gtv.txt"
         },
         {
             "name": "4gtvs",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/4gtvs.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/4gtvs.txt"
         },
         {
             "name": "午夜",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/0.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/0.txt"
         },
         {
             "name": "秘密花园直播",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/mmhy.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/mmhy.txt"
         },
         {
             "name": "随机亚跌",
@@ -3527,232 +3688,232 @@
         {
             "name": "武打片",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/wudapian.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/wudapian.txt"
         },
         {
             "name": "福利院",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/fly.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/fly.txt"
         },
         {
             "name": "Playboy93",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/Playboy93.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/Playboy93.m3u"
         },
         {
             "name": "韩国女主播",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/hanguo.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/hanguo.txt"
         },
         {
             "name": "全球精品",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/qqjp.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/qqjp.txt"
         },
         {
             "name": "91麻豆",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/91md.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/91md.txt"
         },
         {
             "name": "日日泰勒",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/riritaylor.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/riritaylor.m3u"
         },
         {
             "name": "adultiptv",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/adultiptv.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/adultiptv.m3u"
         },
         {
             "name": "18接口",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/18jk.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/18jk.txt"
         },
         {
             "name": "18源",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/18y.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/18y.txt"
         },
         {
             "name": "4k福利",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/4kfl.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/4kfl.m3u"
         },
         {
             "name": "A",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/A.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/A.m3u"
         },
         {
             "name": "Adult",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/Adult.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/Adult.m3u"
         },
         {
             "name": "五马抖音",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/wmdy.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/wmdy.txt"
         },
         {
             "name": "黄色仓库全站",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/hsckqzpq.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/hsckqzpq.txt"
         },
         {
             "name": "完整版黄色仓库",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/wzbhsck.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/wzbhsck.txt"
         },
         {
             "name": "黄色仓库",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/hsck.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/hsck.txt"
         },
         {
             "name": "黄色仓库2024",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/HSCK2024.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/HSCK2024.txt"
         },
         {
             "name": "WM",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/WM.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/WM.txt"
         },
         {
             "name": "XXX",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/XXX.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/XXX.m3u"
         },
         {
             "name": "adult",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/adult.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/adult.txt"
         },
         {
             "name": "主播",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/api.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/api.txt"
         },
         {
             "name": "本群福利",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/bqfl.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/bqfl.txt"
         },
         {
             "name": "大人",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/daren.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/daren.m3u"
         },
         {
             "name": "福利",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/fl.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/fl.txt"
         },
         {
             "name": "国产传媒",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/gccm.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gccm.m3u"
         },
         {
             "name": "国际",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/gj.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gj.txt"
         },
         {
             "name": "精品库存",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/jpkc.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/jpkc.txt"
         },
         {
             "name": "my01",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/my01.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/my01.txt"
         },
         {
             "name": "my02",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/my02.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/my02.txt"
         },
         {
             "name": " playboy",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/playboy.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/playboy.m3u"
         },
         {
             "name": "溏心麻豆",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/txmd.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/txmd.txt"
         },
         {
             "name": "往死里怼",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/wsld.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/wsld.txt"
         },
         {
             "name": "香蕉",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/xj.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/xj.txt"
         },
         {
             "name": "香蕉电影",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/xjdy.m3u"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/xjdy.m3u"
         },
         {
             "name": "香蕉视频",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/xjsp.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/xjsp.txt"
         },
         {
             "name": "xxx",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/xxx.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/xxx.txt"
         },
         {
             "name": "一插到底",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/ycdd.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/ycdd.txt"
         },
         {
             "name": "玉女峰",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/ynf.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/ynf.txt"
         },
         {
             "name": "不知明tv",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/bzmtv.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/bzmtv.txt"
         },
         {
             "name": "国际福利",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/gjfl.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/gjfl.txt"
         },
         {
             "name": "桃花源资源",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/taohuayuan.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/taohuayuan.txt"
         },
         {
             "name": "欧美电影",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/oumeidy.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/oumeidy.txt"
         },
         {
             "name": "大地",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/dadi.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/dadi.txt"
         },
         {
             "name": "百万",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/baiwan.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/baiwan.txt"
         },
         {
             "name": "豆豆",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/ys/refs/heads/main/zb/doudou.txt"
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/testnmb/pgfh/refs/heads/main/zb/doudou.txt"
         },
         {
             "group": "redirect",
