@@ -13,9 +13,9 @@
         },
         {
             "key": "py模板",
-            "name": "py模板",
+            "name": "py小鸭子",
             "type": 3,
-            "api": "./py/py模板.py",
+            "api": "./py/小鸭子看看.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2397,10 +2397,10 @@
             }
         },
         {
-            "key": "redflix",
-            "name": "🔞redflix(翻)",
+            "key": "redflix带字幕版",
+            "name": "redflix带字幕版(翻)",
             "type": 3,
-            "api": "./py/redflix.py",
+            "api": "./py/redflix带字幕版.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
