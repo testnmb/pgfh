@@ -13,9 +13,9 @@
         },
         {
             "key": "py模板",
-            "name": "py小鸭子",
+            "name": " py模板",
             "type": 3,
-            "api": "./py/小鸭子看看.py",
+            "api": "./py/模板.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -336,12 +336,12 @@
             "ext": "./json/韩剧看看.json"
         },
         {
-            "key": "麦田APP",
-            "name": "麦田APP",
+            "key": "麦田",
+            "name": "麦田",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
-            "ext": "./json/麦田APP.json"
+            "ext": "./json/麦田.json"
         },
         {
             "key": "甜圈短剧",
