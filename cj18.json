@@ -1,6 +1,18 @@
 {
-    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
+    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpegfrom=2956013662",
     "sites": [
+        {
+            "key": "采集",
+            "name": "采集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "0",
+            "changeable": 1
+        },
         {
             "key": "花都影视",
             "name": "🔞花都影视",
