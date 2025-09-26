@@ -20,7 +20,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+        {
             "key": "json模板",
             "name": "🔞json模板",
             "type": 3,
@@ -80,7 +80,8 @@
             "key": "嗷呜弹幕",
             "type": 3,
             "api": "csp_GoConfig",
-            "jar": "https://gitee.com/amg99/tvjson/raw/master/spider/custom_spider.jar",
+            "jar": "http://aw.0890.dpdns.org/spider/custom_spider.jar",
+            "indexs": 1,
             "searchable": 0,
             "filterable": 0,
             "quickSearch": 0,
